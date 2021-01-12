@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "EmployeeRecord"
+    }
+  },
+  "defaultProject": "EmployeeRecord",
+  "cli": {
+    "analytics": false
+  }
 }
