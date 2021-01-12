@@ -1,6 +1,8 @@
 # EmployeeRecord
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.7.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.7.
+
+It is use to Node js 12.6.0
 
 ## Development server
 
